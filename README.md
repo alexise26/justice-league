@@ -10,4 +10,4 @@ Pueden hacer lo que quieran...
 Agregado desde Github
 
 #### Cambios
-Estos cambios son nuevos
+Estos cambios son nuevos ahora desde github
